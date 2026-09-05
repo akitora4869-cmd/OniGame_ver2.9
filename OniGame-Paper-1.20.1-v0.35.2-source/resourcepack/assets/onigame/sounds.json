@@ -1,0 +1,34 @@
+{
+  "final_phase": {
+    "sounds": [
+      {
+        "name": "onigame:music/final_phase",
+        "stream": true
+      }
+    ]
+  },
+  "jakutsuki_final_phase": {
+    "sounds": [
+      {
+        "name": "onigame:music/jakutsuki_final_phase",
+        "stream": true
+      }
+    ]
+  },
+  "game_start": {
+    "sounds": [
+      {
+        "name": "onigame:music/game_start",
+        "stream": true
+      }
+    ]
+  },
+  "chase_tatari": {
+    "sounds": [
+      {
+        "name": "onigame:music/chase_tatari",
+        "stream": true
+      }
+    ]
+  }
+}
